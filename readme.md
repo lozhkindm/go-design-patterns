@@ -4,3 +4,4 @@ Design patterns in Go
 2) Factories
 3) Prototype
 4) Singleton
+5) Adapter
