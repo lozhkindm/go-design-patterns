@@ -5,3 +5,4 @@ Design patterns in Go
 3) Prototype
 4) Singleton
 5) Adapter
+6) Bridge
