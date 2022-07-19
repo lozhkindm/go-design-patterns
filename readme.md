@@ -6,3 +6,4 @@ Design patterns in Go
 4) Singleton
 5) Adapter
 6) Bridge
+7) Composite
