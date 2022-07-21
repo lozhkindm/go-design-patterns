@@ -7,3 +7,4 @@ Design patterns in Go
 5) Adapter
 6) Bridge
 7) Composite
+8) Decorator
