@@ -9,3 +9,4 @@ Design patterns in Go
 7) Composite
 8) Decorator
 9) Facade
+10) Flyweight
