@@ -10,3 +10,4 @@ Design patterns in Go
 8) Decorator
 9) Facade
 10) Flyweight
+11) Proxy
