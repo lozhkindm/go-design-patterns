@@ -11,3 +11,4 @@ Design patterns in Go
 9) Facade
 10) Flyweight
 11) Proxy
+12) Chain of Responsibility
