@@ -13,3 +13,4 @@ Design patterns in Go
 11) Proxy
 12) Chain of Responsibility
 13) Command
+14) Interpreter
