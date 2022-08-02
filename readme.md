@@ -14,3 +14,4 @@ Design patterns in Go
 12) Chain of Responsibility
 13) Command
 14) Interpreter
+15) Iterator
