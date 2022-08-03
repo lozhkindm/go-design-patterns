@@ -15,3 +15,4 @@ Design patterns in Go
 13) Command
 14) Interpreter
 15) Iterator
+16) Mediator
