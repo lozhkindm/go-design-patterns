@@ -17,3 +17,4 @@ Design patterns in Go
 15) Iterator
 16) Mediator
 17) Memento
+18) Observer
