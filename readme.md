@@ -18,3 +18,4 @@ Design patterns in Go
 16) Mediator
 17) Memento
 18) Observer
+19) State
