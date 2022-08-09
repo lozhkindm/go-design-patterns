@@ -20,3 +20,4 @@ Design patterns in Go
 18) Observer
 19) State
 20) Strategy
+21) Template Method
