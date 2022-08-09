@@ -19,3 +19,4 @@ Design patterns in Go
 17) Memento
 18) Observer
 19) State
+20) Strategy
